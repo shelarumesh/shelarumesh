@@ -1,16 +1,32 @@
-- 👋 Hi, I’m Umesh Prakash Shelar
-- 👀 I’m interested in ... Data Science and Data Analysis
-- 🌱 I’m currently learning ... /machine Learning and NLP
-- 💞️ I’m looking to collaborate on ... Data Science field
-- 📫 How to reach me ... shelarumesh1006@gmail.com
+Linkedin : https://www.linkedin.com/in/umesh-shelar-b594781aa/
+GitHub : https://github.com/shelarumesh
+Portfulio : https://codebasics.io/portfolio/Umesh-Prakash-Shelar
+Email : shelarumesh1006@gmail.com
+Contact : +91 7057279787
+
+I am Mr. Umesh Shelar Holding Batchlore degree in Electrical Engineering and Pursuing Master Cirtification of gulf univercity in Data Science in AlmaBetter institure. 
+I have experts knowledge and skills in data science field such as Python, ML, Dl, Power BI, Tableau, MySQL, advhance Excel and Statistics. In electrical domain Electrical data analysis, audit, harmonic analysis, extract the solution. 
+With my past experience i completed 50+ project in electrical installation, commission, Electrical audit, and Harmonic-Power factor study analysis and provide solution. More than 5 project achieved 100 % result in the energy domain. 
+In the field of data science i have completed 25+ project in marketing, E-commers, Energy, Banking and medical domain. some example of my projects are Data Analysis airbnb, IMBD movies data, I phone data amalysis, Alique data anslysis, karnataka gov data analysis, supervise ML on electrical power analysis and prediction, tips prediction, dibetic prediction, flower prediction, customer segmentation on movie dataset etc, and ANN on electrical dataset, CNN for face recognization etc. 
 
 
-I'm Mr. Umesh Shelar. I hold a Bachelor's degree in Electrical Engineering and have over 3.5 years of experience in data analysis and reporting. Throughout my career, I've specialized in Power Quality analysis projects within the electrical domain, successfully completing over 50+ projects in this area.
+Key Points : 
+1. led project in 5 countries
+2. Completed Electrical Audit 20+ Project, Electrical Commissioning 50+ Project.
+3. Experts skills in : Python, Power BI, MySQL, EDA, ML, DL, NLP, Tableau, Advance Excel
+4. 25+ Project completed in data analysis and data science in energy, finance, marketing, healthcare, E-commers domain
 
-I possess advanced skills in various tools and technologies such as Excel, Power BI, Python (including libraries like Pandas, NumPy, Matplotlib, and Seaborn), as well as MySQL. These skills have been instrumental in delivering impactful insights and solutions across a wide range of projects.
 
-Speaking of projects, I've had the opportunity to work on diverse real-world challenges, including predicting house prices, analyzing electrical power factor, conducting superstore analysis, exploring trends in the tile industry, and assessing student performance. Recently, I successfully completed the Atliq hardware project with the codebasics platform.
+Project 01 : ML Regression Electrical Power Factor prediction : https://github.com/shelarumesh/DS02_Electrical_PowerFactor_Analysis
+Project 02 : DL CNN Face Detection : https://github.com/shelarumesh/DS01_Emosion_Detection
+Project 03 : EDA hospitality : https://github.com/shelarumesh/DA01_Hospitality_Analysis_codebasics
+Project 04 : EDA and ML classification Netflix Movies : https://github.com/shelarumesh/DA01_Hospitality_Analysis_codebasics/blob/main/Netflix_clusterung_and_EDA.ipynb
+Project 05 : EDA Airbnb customer analysis :  https://github.com/shelarumesh/DA01_Hospitality_Analysis_codebasics/blob/main/EDA_Airbnb_Booking_Analysis_.ipynb
+Project 06 : EDA customer segmentation Healthcare : https://github.com/shelarumesh/DA01_Hospitality_Analysis_codebasics/blob/main/EDA_HealthCare_Insurance.ipynb
+Project 07 : Dashboard Product Analysis : https://github.com/shelarumesh/DA02_Products_analysis_PowerBI
+Project 08 : Dashboard Business 360 : https://app.powerbi.com/groups/me/reports/847f982e-f577-492f-bb91-b9c84c5a7ab4/ReportSection6b66e1a9a058fe77f6c9?experience=power-bi
+Project 09 : Dashboard Product Analysis : https://app.powerbi.com/groups/me/reports/847f982e-f577-492f-bb91-b9c84c5a7ab4/ReportSection6b66e1a9a058fe77f6c9?experience=power-bi
+Project 09 : Dashboard Tableau Airbnb analysis : https://public.tableau.com/app/profile/umesh.shelar/viz/ABAirbnbdatavisualization/Dashboard5
+Project 10 : ML classification Diabetic Prediction : https://github.com/shelarumesh/DS03_DiabeticsAnalysis
 
-In approaching my projects, I adhere to the CRISP-DM methodology, ensuring a structured and effective workflow from understanding the problem statement, collecting and understanding the relevant data, to cleaning, preprocessing, encoding features, and ultimately employing machine learning techniques for prediction.
 
-Overall, my blend of technical expertise, practical experience, and methodological approach makes me confident in my ability to tackle complex data challenges and deliver valuable insights."
