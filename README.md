@@ -1,8 +1,8 @@
-Linkedin : https://www.linkedin.com/in/umesh-shelar-b594781aa/
-GitHub : https://github.com/shelarumesh
-Portfulio : https://codebasics.io/portfolio/Umesh-Prakash-Shelar
-Email : shelarumesh1006@gmail.com
-Contact : +91 7057279787
+- Linkedin : https://www.linkedin.com/in/umesh-shelar-b594781aa/
+- GitHub : https://github.com/shelarumesh
+- Portfulio : https://codebasics.io/portfolio/Umesh-Prakash-Shelar
+- Email : shelarumesh1006@gmail.com
+- Contact : +91 7057279787
 
 I am Mr. Umesh Shelar Holding Batchlore degree in Electrical Engineering and Pursuing Master Cirtification of gulf univercity in Data Science in AlmaBetter institure. 
 I have experts knowledge and skills in data science field such as Python, ML, Dl, Power BI, Tableau, MySQL, advhance Excel and Statistics. In electrical domain Electrical data analysis, audit, harmonic analysis, extract the solution. 
