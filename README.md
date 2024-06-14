@@ -28,5 +28,6 @@ Key Points :
 - Project 09 : Dashboard Product Analysis : https://app.powerbi.com/groups/me/reports/847f982e-f577-492f-bb91-b9c84c5a7ab4/ReportSection6b66e1a9a058fe77f6c9?experience=power-bi
 - Project 09 : Dashboard Tableau Airbnb analysis : https://public.tableau.com/app/profile/umesh.shelar/viz/ABAirbnbdatavisualization/Dashboard5
 - Project 10 : ML classification Diabetic Prediction : https://github.com/shelarumesh/DS03_DiabeticsAnalysis
+- Project 11 : MLOps End to End Student Analysis : https://github.com/shelarumesh/StudentPerformance_MLOps_end_to_end_project
 
 
